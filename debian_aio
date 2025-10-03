@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://tr-tunnel.ggff.net/api/authentication';
 API_KEY='@@@PANEL@@@';
-DOMAIN=y4zl.tr-tunnel.ggff.net
-NS=z5ou.tr-tunnel.ggff.net
+DOMAIN=nxge.tr-tunnel.ggff.net
+NS=53zl.tr-tunnel.ggff.net
 
 #---------------[ Timezone ]-------------------------
 timedatectl set-timezone Asia/Manila
