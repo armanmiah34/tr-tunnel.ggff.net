@@ -7,13 +7,13 @@ DBNAME='erfastnet_trtunnel';
 PORT_TCP='1194';
 PORT_UDP='110';
 PORT_SSL='443';
-OBFS='firenet';
+OBFS='najdev';
 HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://tr-tunnel.ggff.net/api/authentication';
 API_KEY='@@@PANEL@@@';
-DOMAIN=y1of.tr-tunnel.ggff.net
-NS=waeu.tr-tunnel.ggff.net
+DOMAIN=qxnr.tr-tunnel.ggff.net
+NS=vzcl.tr-tunnel.ggff.net
 
 #---------------[ Timezone ]-------------------------
 timedatectl set-timezone Asia/Manila
